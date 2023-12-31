@@ -1,0 +1,10 @@
+alumno08
+Proporcion: 12
+Tamaño ./fastqc/Sample1.fastq: 3590340
+Tamaño trozo ./fastqc/Sample1.fastq: 430840
+Tamaño ./fastqc/Sample2.fastq: 3255604
+Tamaño trozo ./fastqc/Sample2.fastq: 390672
+Tamaño ./fastqc/Sample3.fastq: 3589192
+Tamaño trozo ./fastqc/Sample3.fastq: 430703
+Tamaño ./fastqc/Sample4.fastq: 3272948
+Tamaño trozo ./fastqc/Sample4.fastq: 392753
