@@ -7,4 +7,4 @@ index 57f503c..8feb6a2 100644
  *
  * Estas tres primeras líneas estaban escritas inicialmente.
 +*
-+* Esta es la copia local
++* Esta es la copia unión del repositorio local y de GitHub.
